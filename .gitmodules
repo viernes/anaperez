@@ -1,3 +1,6 @@
 [submodule "ap_modules"]
 	path = ap_modules
 	url = git@github.com:viernes/ap_modules.git
+[submodule "lazze"]
+	path = lazze
+	url = git@github.com:William954/lazze.git
