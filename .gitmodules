@@ -4,3 +4,8 @@
 [submodule "lazze"]
 	path = lazze
 	url = git@github.com:William954/lazze.git
+
+[submodule "cuponesPOS"]
+	path = cuponesPOS
+	url = git@github.com:omojika/cuponesPOS.git
+	branch = master
